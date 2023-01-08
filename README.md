@@ -10,7 +10,7 @@ I love Linux and writing Rust code.
 
 ## My finished projects
 - [CHIP-8 emulator](https://github.com/NinVoido/chip-8-rust) written on Rust
-- [Simple TCP clients](https://github.com/NinVoido/tcp-clients) written on plenty of languages
+- [Simple TCP clients](https://github.com/NinVoido/tcp_clients) written on plenty of languages
 - [Super script](https://github.com/NinVoido/super-artyom-script), idk what to say
 
 ## In progress
