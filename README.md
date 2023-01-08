@@ -16,6 +16,8 @@ I love Linux and writing Rust code.
 ## In progress
 - [Homeworks](https://github.com/NinVoido/PythonHW)
 
+## My stats
+![Metrics](github-metrics.svg)
 
 <!--
 **NinVoido/NinVoido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
