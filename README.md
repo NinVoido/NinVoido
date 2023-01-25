@@ -15,7 +15,7 @@ I love Linux and writing Rust code.
 
 ## In progress
 - [Homeworks](https://github.com/NinVoido/PythonHW)
-- [AVR kernel](https://github.com/NinVoido/kernel-avr)
+- [AVR kernel](https://github.com/NinVoido/avr-kernel)
 
 ## My stats
 ![Metrics](github-metrics.svg)
