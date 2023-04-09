@@ -12,10 +12,10 @@ I love Linux and writing Rust code.
 - [CHIP-8 emulator](https://github.com/NinVoido/chip-8-rust) written on Rust
 - [Simple TCP clients](https://github.com/NinVoido/tcp_clients) written on plenty of languages
 - [Super script](https://github.com/NinVoido/super-artyom-script), idk what to say
+- [AVR kernel](https://github.com/NinVoido/avr-kernel), simple preemptive scheduler for Arduino
 
 ## In progress
 - [Homeworks](https://github.com/NinVoido/PythonHW)
-- [AVR kernel](https://github.com/NinVoido/avr-kernel)
 
 ## My stats
 ![Metrics](github-metrics.svg)
